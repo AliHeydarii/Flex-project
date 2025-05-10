@@ -1,6 +1,5 @@
 # Flex Project
 
-
 ![viewfinal](https://github.com/user-attachments/assets/31ca4fd1-9a77-4fa7-bc7a-9bdd367ca142)
 
 ![view final](https://github.com/user-attachments/assets/ab62dc60-cc1e-4e95-bd9b-76c017fb0482)
